@@ -1,25 +1,25 @@
-Inter-VLAN Routing Lab (Router-on-a-Stick)
+# Inter-VLAN Routing Lab (Router-on-a-Stick)
 
-Author
+# Author
 
-Zainab Ijaz
+# Zainab Ijaz
 
-Project Overview
+# Project Overview
 
 This lab demonstrates Inter-VLAN Routing using the Router-on-a-Stick (ROAS) method in Cisco Packet Tracer. The network consists of one router, one Layer 2 switch, and two PCs connected to different VLANs. Router subinterfaces were configured to allow communication between VLAN 10 and VLAN 20.
 
-Lab Topology
+# Lab Topology
 
 - 1 Router
 - 1 Layer 2 Switch
 - 2 PCs
 
-VLANs
+# VLANs
 
 - VLAN 10
 - VLAN 20
 
-Objectives
+# Objectives
 
 - Create VLAN 10 and VLAN 20.
 - Assign switch ports to the appropriate VLANs.
@@ -28,7 +28,7 @@ Objectives
 - Assign IP addresses and default gateways to both PCs.
 - Verify communication between VLANs using ping.
 
-Technologies Used
+# Technologies Used
 
 - Cisco Packet Tracer
 - VLAN Configuration
@@ -36,7 +36,7 @@ Technologies Used
 - Router-on-a-Stick (Inter-VLAN Routing)
 - IPv4 Addressing
 
-Verification Commands
+# Verification Commands
 
 - "show vlan brief"
 - "show interfaces trunk"
@@ -44,7 +44,7 @@ Verification Commands
 - "show running-config"
 - "ping"
 
-Skills Demonstrated
+# Skills Demonstrated
 
 - VLAN Configuration
 - Trunk Configuration
@@ -54,12 +54,12 @@ Skills Demonstrated
 - Network Connectivity Verification
 - Basic Troubleshooting
 
-Learning Outcome
+# Learning Outcome
 
 This lab strengthened my understanding of VLAN segmentation, trunking, Router-on-a-Stick configuration, and enabling communication between different VLANs through Inter-VLAN Routing.
 
 ---
 
-Created by: Zainab Ijaz
-GitHub: https://github.com/zainab-cyber6633
-Field of Interest: Cybersecurity | Networking | CCNA | Microsoft Azure | CyberOps
+ # Created by: Zainab Ijaz
+ # GitHub: https://github.com/zainab-cyber6633
+# Field of Interest: Cybersecurity | Networking | CCNA | Microsoft Azure | CyberOps
