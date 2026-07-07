@@ -36,3 +36,11 @@ This section covers networking fundamentals, routing, switching, and Cisco Packe
 - Packet Tracer Files
 - Screenshots
 - Certifications
+
+- ## Author
+
+**Zainab**
+
+Cybersecurity | Networking | Penetration Testing | Incident Response
+
+⭐ If you found this repository helpful, consider giving it a star.
