@@ -29,3 +29,10 @@ Linux administration and security for cybersecurity professionals.
 - Scripts
 - Screenshots
 - Certifications
+## Author
+
+**Zainab**
+
+Cybersecurity | Networking | Penetration Testing | Incident Response
+
+⭐ If you found this repository helpful, consider giving it a star.
