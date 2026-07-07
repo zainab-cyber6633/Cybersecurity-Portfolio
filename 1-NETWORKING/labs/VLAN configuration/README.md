@@ -1,4 +1,4 @@
-# Lab 03 - VLAN Configuration 
+# Lab 02 - VLAN Configuration 
 
 ## Objective
 Configure multiple VLANs on a Cisco switch and enable communication between VLANs using Router-on-a-Stick.
